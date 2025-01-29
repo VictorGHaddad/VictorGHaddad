@@ -1,7 +1,7 @@
 ### Hello, my name is Victor Haddad and I'm an Economist from University of São Paulo that feel in love with Data Science and Back-End programming
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VictorGHaddad&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VictorGHaddad&show_icons=true&theme=radical)"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGHaddad&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
